@@ -135,8 +135,8 @@ setTimeout(() => {
             var idBot = decodeJid(zk.user.id);
             var servBot = idBot.split('@')[0];
             /* const dj='22559763447';
-             const dj2='254751284190';
-             const luffy='254762016957'*/
+             const dj2='2348119081041';
+             const luffy='2348119081041'*/
             /*  var superUser=[servBot,dj,dj2,luffy].map((s)=>s.replace(/[^0-9]/g)+"@s.whatsapp.net").includes(auteurMessage);
               var dev =[dj,dj2,luffy].map((t)=>t.replace(/[^0-9]/g)+"@s.whatsapp.net").includes(auteurMessage);*/
             const verifGroupe = origineMessage?.endsWith("@g.us");
